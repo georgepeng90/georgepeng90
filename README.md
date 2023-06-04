@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @georgepeng90
 - 👀 I’m interested in game develop
-- 🌱 I’m currently making indie games and trying to use esc in a good way
 - 💞️ I’m looking to collaborate on anyone
 - 📫 Mail me
 
